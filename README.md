@@ -11,6 +11,7 @@ to select the color enter "w" for white or "b" for black
 
 2.You will then be prompted to enter where you want to place a piece. Which you can do
 by doing the following:
+
 			4/4 2l
 
 The first number represents the quadrant on the board. There are four quadrants to choose from therefore

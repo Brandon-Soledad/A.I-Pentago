@@ -3,6 +3,9 @@ Pentago game between the player and A.I bot.
 
 ![](BoardPic.jpg)
 
+If you do not know how to play Pentago check out the following website:
+
+https://www.ultraboardgames.com/pentago/game-rules.php
 
 INSTRUCTIONS:
 

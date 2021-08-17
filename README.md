@@ -3,5 +3,5 @@ Pentago game between the player and A.I bot.
 
 blah blah
 
-![]("BoardPic.jpg")
+![](BoardPic.jpg)
 
